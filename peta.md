@@ -1,5 +1,5 @@
 ---
 title: Peta
-layout: blog
+layout: maps
 ---
 
