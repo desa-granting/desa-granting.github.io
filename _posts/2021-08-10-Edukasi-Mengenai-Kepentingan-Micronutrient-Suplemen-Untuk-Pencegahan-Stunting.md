@@ -1,6 +1,7 @@
 ---
 title: Edukasi Mengenai Kepentingan Micronutrient Suplemen Untuk Pencegahan Stunting
 layout: post
+author: Amanjot Kaur
 image: assets/images/amanjot_p3.png
 description: Micronutrien Suplemen dalam Melawan Stunting
 tags:
@@ -9,10 +10,7 @@ tags:
 - Suplemen
 - Medika
 ---
-
-
 > Author : Amanjot Kaur
-
 
 <p>
   <center>

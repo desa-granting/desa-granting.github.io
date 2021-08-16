@@ -1,6 +1,7 @@
 ---
 title: Edukasi Mengenai Program Gerakan Nasional Percepatan Perbaikan Gizi Dalam Rangka Perbaikan Gizi Untuk Mencapai Intervensi Gizi Spesifik
 layout: post
+author: Amanjot Kaur
 image: assets/images/amanjot_p2.png
 description: Intervensi Gizi Spesifik dalam Rangka 1000 Hari Pertama
 tags:
@@ -9,10 +10,7 @@ tags:
 - Gizi
 - Medika
 ---
-
-
 > Author : Amanjot Kaur
-
 
 <p>
   <center>
