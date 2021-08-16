@@ -14,11 +14,8 @@ tags:
 
 <p>
   <center>
-  <p>
-  <a href="https://drive.google.com/file/d/1Y1YO1SsnK_Jm_VjXLQ4gEMhKRCgOjKxi/view">Materi Video Link!</a>
-  </p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GusoXC2BNQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <iframe src="https://drive.google.com/file/d/181A3_f1TnXjTvARhC9J_a_SuUhn5GD9R/preview" width="100%" height="800rem"> </iframe>
   </center>
 </p>
-
 ***
